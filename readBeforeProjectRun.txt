@@ -1,0 +1,10 @@
+step 1) cofig .env file
+step 2) run command "composer install"
+step 3) run command "php artisan migrate"
+step 4) run command "php artisan serve"
+
+
+admin login:
+
+user: admin@gmail.com
+pass: 12345678
