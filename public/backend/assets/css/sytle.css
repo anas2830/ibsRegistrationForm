@@ -1,0 +1,9 @@
+.hand{
+    cursor: pointer;
+}
+
+.sorting:before {
+    content: "\f0dc";
+    margin-right: 7px;
+    font-family: fontAwesome;
+}
